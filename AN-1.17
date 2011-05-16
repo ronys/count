@@ -1,0 +1,11 @@
+Changes since count-1.8:
+
+-	-help option new
+
+-	-version option new
+
+-	large file support
+
+-	Better portability from new makefile system
+
+

@@ -1,0 +1,8 @@
+count is a fast replacement for a program called 'wc'.
+
+Count allows to count the visible linelength in addition
+to the wc coptions.
+
+Count has a fast -stat option to quickly add file sizes.
+
+Count is even faster than wc if the -stat option is not used.
